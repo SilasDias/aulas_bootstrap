@@ -3,13 +3,21 @@ body {
 }
 
 .navbar  {
-    background-color: #f0f0f0;
+    background-color: #FAFAFA;
 }
 
 .quem-somos {
-    background-color: aquamarine;
+    background-color: #A9F5E1;
 }
 
 .margin {
     padding: 15px;
+}
+
+.parceiros {
+    background-color: #BCF5A9;
+}
+
+.servicos {
+    background-color: #F2F5A9;
 }
